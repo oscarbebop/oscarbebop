@@ -1,16 +1,26 @@
-### Hi there 👋
+# About me
 
-<!--
-**oscarbebop/oscarbebop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const oscarbebop = {
+  name: 'Oscar Castaneda',
+  aboutMe: 'Software developer passionate about creating digital products.',
+  code: ['JavaScript', 'TypeScript', 'Python'],
+  technologies: {
+    mobileApp: ['React Native'],
+    frontEnd: {
+      js: ['React', 'NextJS', 'Gatsby'],
+      css: ['Styled Components']
+    },
+    backEnd: {
+      js: ['Node', 'Express', 'Apollo', 'Graphql']
+    },
+    devOps: ['AWS'],
+    databases: ['PostgreSQL', 'MongoDB', 'MySql', 'Sqlite']
+  },
+  architecture: [
+    'Progressive web applications',
+    'Single page applications',
+    'JAM Stack'
+  ]
+};
+```

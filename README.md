@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💾 I’m currently working at **health company**
 - 🎨 I use daily: `.ts`, `.tsx` and `.graphql` mainly.
 - 🌱 I’m currently learning **Java**
-- 💬 Ask me about **javascript **, **typescript**, **react**, **design systems**  
+- 💬 Ask me about **javascript**, **typescript**, **react**, **design systems**  
 - 📫 How to reach me: [twitter.com/oscarbebop](https://twitter.com/oscarbebop)
